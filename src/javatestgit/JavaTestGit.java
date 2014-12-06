@@ -15,7 +15,7 @@ public class JavaTestGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("nix da");
+        System.out.println("platz da");
     }
     
 }
