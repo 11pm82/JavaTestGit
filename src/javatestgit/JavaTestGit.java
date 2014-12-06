@@ -18,8 +18,10 @@ public class JavaTestGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        JavaTestGit test =  new JavaTestGit();
         System.out.println("platz da");
         System.out.println("haha");
+        test.print();
     }
     
 }
