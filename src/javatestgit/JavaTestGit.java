@@ -11,6 +11,9 @@ package javatestgit;
  */
 public class JavaTestGit {
 
+    public void print() {
+        System.out.println("dere");
+    }
     /**
      * @param args the command line arguments
      */
