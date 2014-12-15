@@ -13,6 +13,7 @@ public class JavaTestGit {
 
     public void print() {
         System.out.println("dere");
+        System.out.println("servas");
     }
     /**
      * @param args the command line arguments
